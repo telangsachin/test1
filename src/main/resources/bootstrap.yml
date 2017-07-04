@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: udmey-rsmortgage-service-discovery-high-availiability
